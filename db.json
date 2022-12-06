@@ -1,0 +1,212 @@
+ [{
+            "playerName": "Virat kohli",
+            "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1280,q_80/lsci/db/PICTURES/CMS/313100/313128.logo.png",
+            "runs": 6624,
+            "innings": 215,
+            "strikeRate": 129.14,
+            "centuries": "44/5",
+            "boundaries": "578/218",
+            "IsRetired": false
+        },
+        {
+            "playerName": "Shikhar dhawan",
+            "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1280,q_80/lsci/db/PICTURES/CMS/313100/313128.logo.png",
+            "runs": 6244,
+            "innings": 206,
+            "strikeRate": 126.34,
+            "centuries": "47/2",
+            "boundaries": "701/136",
+            "IsRetired": false
+        },
+        {
+            "playerName": "David Andrew Warner",
+            "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1280,q_80/lsci/db/PICTURES/CMS/340400/340493.png",
+            "runs": 5881,
+            "innings": 162,
+            "strikeRate": 140.69,
+            "centuries": "55/4",
+            "boundaries": "577/216",
+            "IsRetired": false
+        },
+        {
+            "playerName": "Rohit Sharma",
+            "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1200,q_60/lsci/db/PICTURES/CMS/313100/313128.logo.png",
+            "runs": 5879,
+            "innings": 222,
+            "strikeRate": 129.89,
+            "centuries": "40/1",
+            "boundaries": "519/240",
+            "IsRetired": false
+        },
+        {
+            "playerName": "Suresh Raina",
+            "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1200,q_60/lsci/db/PICTURES/CMS/313100/313128.logo.png",
+            "runs": 5528,
+            "innings": 200,
+            "strikeRate": 136.73,
+            "centuries": "39/1",
+            "boundaries": "506/203",
+            "IsRetired": true
+        },
+        {
+            "playerName": "AB de Villiers",
+            "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1200,q_60/lsci/db/PICTURES/CMS/313100/313125.logo.png",
+            "runs": 5162,
+            "innings": 170,
+            "strikeRate": 151.68,
+            "centuries": "40/3",
+            "boundaries": "413/251",
+            "IsRetired": true
+        },
+        {
+            "playerName": "MS Dhoni",
+            "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1200,q_60/lsci/db/PICTURES/CMS/313100/313128.logo.png",
+            "runs": 4978,
+            "innings": 206,
+            "strikeRate": 135.19,
+            "centuries": "24/0",
+            "boundaries": "346/229",
+            "IsRetired": false
+        },
+        {
+            "playerName": "Chris Gayle",
+            "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1200,q_60/lsci/db/PICTURES/CMS/317600/317615.png",
+            "runs": 4965,
+            "innings": 141,
+            "strikeRate": 148.96,
+            "centuries": "31/6",
+            "boundaries": "404/357",
+            "IsRetired": true
+        },
+        {
+            "playerName": "Robin Uthappa",
+            "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1200,q_60/lsci/db/PICTURES/CMS/313100/313128.logo.png",
+            "runs": 4952,
+            "innings": 197,
+            "strikeRate": 130.35,
+            "centuries": "27/0",
+            "boundaries": "481/182",
+            "IsRetired": false
+        },
+        {
+            "playerName": "Dinesh Karthik",
+            "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1200,q_60/lsci/db/PICTURES/CMS/313100/313128.logo.png",
+            "runs": 4376,
+            "innings": 208,
+            "strikeRate": 132.64,
+            "centuries": "20/0",
+            "boundaries": "426/134",
+            "IsRetired": false
+        },
+        {
+            "playerName": "Gautam Gambhir",
+            "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1200,q_60/lsci/db/PICTURES/CMS/313100/313128.logo.png",
+            "runs": 4217,
+            "innings": 152,
+            "strikeRate": 123.88,
+            "centuries": "36/0",
+            "boundaries": "492/59",
+            "IsRetired": true
+        },
+        {
+            "playerName": "Ambati Rayadu",
+            "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1200,q_60/lsci/db/PICTURES/CMS/313100/313128.logo.png",
+            "runs": 4190,
+            "innings": 175,
+            "strikeRate": 127.12,
+            "centuries": "22/1",
+            "boundaries": "349/164",
+            "IsRetired": false
+        },
+        {
+            "playerName": "Ajinkya Rahane",
+            "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1200,q_60/lsci/db/PICTURES/CMS/313100/313128.logo.png",
+            "runs": 4074,
+            "innings": 148,
+            "strikeRate": 120.67,
+            "centuries": "28/2",
+            "boundaries": "431/80",
+            "IsRetired": false
+        },
+        {
+            "playerName": "KL Rahul",
+            "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1200,q_60/lsci/db/PICTURES/CMS/313100/313128.logo.png",
+            "runs": 3889,
+            "innings": 100,
+            "strikeRate": 136.21,
+            "centuries": "31/4",
+            "boundaries": "327/164",
+            "IsRetired": false
+        },
+        {
+            "playerName": "Shane Watson",
+            "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1200,q_60/lsci/db/PICTURES/CMS/340400/340493.png",
+            "runs": 3874,
+            "innings": 141,
+            "strikeRate": 137.91,
+            "centuries": "21/4",
+            "boundaries": "375/190",
+            "IsRetired": true
+        },
+        {
+            "playerName": "Manish Pandey",
+            "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1200,q_60/lsci/db/PICTURES/CMS/313100/313128.logo.png",
+            "runs": 3648,
+            "innings": 149,
+            "strikeRate": 121.51,
+            "centuries": "21/1",
+            "boundaries": "318/105",
+            "IsRetired": false
+        },
+        {
+            "playerName": "Sanju Samson",
+            "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1200,q_60/lsci/db/PICTURES/CMS/313100/313128.logo.png",
+            "runs": 3526,
+            "innings": 134,
+            "strikeRate": 135.71,
+            "centuries": "17/3",
+            "boundaries": "279/158",
+            "IsRetired": false
+        },
+        {
+            "playerName": "Kieron Pollard",
+            "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1200,q_60/lsci/db/PICTURES/CMS/317600/317615.png",
+            "runs": 3412,
+            "innings": 171,
+            "strikeRate": 147.32,
+            "centuries": "16/0",
+            "boundaries": "218/223",
+            "IsRetired": true
+        },
+        {
+            "playerName": "Faf du Plessis",
+            "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1200,q_60/lsci/db/PICTURES/CMS/313100/313125.logo.png",
+            "runs": 3403,
+            "innings": 109,
+            "strikeRate": 130.58,
+            "centuries": "25/0",
+            "boundaries": "314/109",
+            "IsRetired": false
+        },
+        {
+            "playerName": "Yusuf Pathan",
+            "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1200,q_60/lsci/db/PICTURES/CMS/313100/313128.logo.png",
+            "runs": 3204,
+            "innings": 154,
+            "strikeRate": 142.97,
+            "centuries": "13/1",
+            "boundaries": "262/158",
+            "IsRetired": true
+        },
+        {
+            "playerName": "Brendon McCullum",
+            "teamImage": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_1200,q_60/lsci/db/PICTURES/CMS/340500/340505.png",
+            "runs": 2880,
+            "innings": 109,
+            "strikeRate": 131.74,
+            "centuries": "13/2",
+            "boundaries": "293/130",
+            "IsRetired": true
+        }
+
+    ]
